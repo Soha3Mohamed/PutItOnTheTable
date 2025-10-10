@@ -151,7 +151,7 @@ reflo       1.0.0    reflo
 Now you can use `reflo` from **any directory**:
 
 ```bash
-reflo apply InternalToPublic "C:\Users\soha mohamed\source\repos\RosylnHello\TestLibrary"
+reflo apply InternalToPublic "C:\Users\source\repos\TestLibrary"
 ```
 
 or
